@@ -1,0 +1,5 @@
+<?php
+/**
+Theme Name: wink
+**/
+?>
